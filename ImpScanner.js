@@ -13,6 +13,7 @@
 // @require        http://userscripts.org/scripts/source/85398.user.js
 // @version 1.337
 // ==/UserScript==
+
 // +++++++++++++++++++++++++++++++++++++++++++estract data info***********************************************
 console.log('start...');
 var bgColor = "071726";
